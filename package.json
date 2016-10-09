@@ -28,6 +28,8 @@
     "react": "^15.3.2",
     "react-addons-test-utils": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-test-renderer": "^15.3.2"
+    "react-shallow-testutils": "^2.0.0",
+    "react-test-renderer": "^15.3.2",
+    "skin-deep": "^0.16.0"
   }
 }
